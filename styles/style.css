@@ -1,0 +1,4 @@
+svg {
+  width: 100px; /* Scale down to 100px width */
+  height: auto; /* Maintains aspect ratio */
+}
